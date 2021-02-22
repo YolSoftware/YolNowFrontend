@@ -1,0 +1,9 @@
+.content-item {
+    padding: 0.5rem;
+    display: flex;    
+}
+
+.content-item {
+    flex: 1;
+    word-break: break-all;
+}
